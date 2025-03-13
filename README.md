@@ -2,13 +2,13 @@
 
 ## Product overview
 
-This Solution suggests optimal allocation of marketing budget across channels like print media, social media, radio, television, etc. based on their past performance using bayesian based market budget allocation method. Alongside, the solution accounts for the effect of non-marketing attributes- such as timeseries and contextual factors- on sales/revenue while recommending optimal budget allocation. The solution compares pre and post budget allocation of each marketing channel and computes predicted target KPI (revenue/ sales).
+Optimizing bin packing for sequential unpacking, load bearing, and center of mass requires an integrated approach that balances spatial arrangement and temporal sequencing. Powered by D-Wave quantum-hybrid solver, this solution solves large-scale problems while maintaining quality. This problem involves arranging, scheduling, and repositioning packages within bins to ensure efficient retrieval. Unlike traditional bin packing, where the objective is solely to minimize space usage, this problem also accounts for structural stability and accessibility. Our solution optimizes structural stability by considering the center of mass, package orientation, and load-bearing constraints.
 
 ## Product Highlight 
 
-* This solution helps organizations measure advertising effectiveness and suggest budget allocation across marketing channels to maximize the return on investment. This inturn helps to recommend optimal budget allocation for each media channel. The solution accounts the impact of time series factors such as trend and seasonality of sales while performing budget optimisation.
-* The solution understands the effect of advertising efforts as two components: First, Carryover effect that accounts for delayed consumer response. Second, Diminishing return effect to account for the saturation of advertizing spend on a media channel.  The output chart compares the revenue impact of budget allocation: Average past spendings in each channel as current budget allocation Vs. Optimised Budget allocation.
-* Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch!
+* This solution uses quantum hybrid solver from DWave to solve NP-hard problems i.e. 3D bin packing in a few seconds and with good accuracy.
+* It optimizes sequential unloading, load-bearing distribution, and center of mass for stability. It considers package orientation and stacking constraints, making it ideal for logistics, warehouse automation, and freight transport where structured retrieval is critical.
+* Need customized Quantum Computing solutions? Get in touch!
 
 ## Amazon Marketplace Link
 The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-l5mfrplslsg5s)
